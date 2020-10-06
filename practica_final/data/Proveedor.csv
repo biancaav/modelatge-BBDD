@@ -1,0 +1,4 @@
+idProveedor,nombre,direccion,numero,piso,puerta,ciudad,codigo_postal,pais,telefono,fax
+1,"Proveedor A","C/ dirección proveedor A",13,1,4,Barcelona,08032,ESP,"93 333 33 33","93 465 34 34"
+2,"Proveedor B","C/ dirección proveedor B",178,3,2,Barcelona,08019,ESP,"93 555 55 55","93 543 12 32"
+3,"Proveedor C","C/ dirección proveedor C",46,2,1,Badalona,08914,ESP,"93 222 22 11","95 333 87 98"

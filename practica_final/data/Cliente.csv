@@ -1,0 +1,5 @@
+idCliente,nombre,codigo_postal,telefono,email,fecha_registro,recomendado_por
+01,"Cliente 1",09271,"666 66 66 66",cliente1@email.com,03-11-2019,"Cliente 3"
+02,"Cliente 2",08915,"655 55 55",cliente2@email.com,20-06-2017,NULL
+03,"Clinete 3",08019,"644 44 44",cliente3@email.com,28-05-2018,Cliente2
+04,"Cliente 4",08036,"622 22 22",cliente4@email.com,30-03-2020,NULL

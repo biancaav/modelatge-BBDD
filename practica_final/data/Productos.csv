@@ -1,0 +1,9 @@
+idProducto,IdMarca,precio,graduacion_D,graduacion_I,tipo_montura,color_montura,color_vidrio_D,color_vidrio_I
+1001,100,"69,99",0.25,0.25,acetato,rojo,transparente,transparente
+1002,100,"35,99",-0.50,-0.25,metal,plata,transparente,transparente
+3003,300,"69,66",0.75,"0,50",acetato,negra,transparente,transparente
+2004,200,"43,00",-1.00,-0.75,titanio,plata,transparente,transparente
+5005,500,"57,00",-0.25,-0.25,titanio,dorada,transparente,transparente
+4006,400,"43,00",0.00,0.00,acetato,rojo,transparente,transparente
+5007,500,"63,50",-075,-0.75,acetato,negro,transparente,transparente
+NULL,NULL,NULL,NULL,NULL,NULL,NULL,,
